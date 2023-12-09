@@ -1,0 +1,76 @@
+/*ESTILO*/  
+.Proceso div{
+    background-color: #54ca68 !important;
+    color: #191d21 !important ;
+    border: none;
+    margin-top: 10px;
+    text-align: center;
+}
+  
+.Atrasado{
+    background-color: #fc544b;    
+    color: #fff;
+}
+
+.movimientos .buttons-pdf {
+    background-color: #e91e63 !important;
+    color: #fff !important;
+    border-radius: 5px !important;
+    border: 0 !important;    
+    font-family: "Nunito", "Segoe UI", arial !important;
+    width: 100px;
+    padding: 13px 13px 13px;
+}
+
+.movimientos .btn-group-vertical>.btn, .btn-group>.btn {
+    position: relative;    
+    font-family: "Nunito", "Segoe UI", arial !important;
+    -ms-flex: 1 1 auto;
+    -webkit-box-flex: 1;
+    flex: 1 1 auto;
+}
+
+.movimientos .buttons-print {
+    background-color: #6563ef !important;
+    color: #fff !important;
+    border-radius: 5px !important;
+    border: 0 !important;
+    width: 100px;
+    font-family: "Nunito", "Segoe UI", arial !important;
+    padding: 13px 13px 13px;
+}
+
+.movimientos .buttons-excel {
+    background-color: #59bf70 !important;
+    color: #fff !important;
+    border-radius: 5px !important;
+    border: 0 !important;
+    width: 100px;    
+    font-family: "Nunito", "Segoe UI", arial;
+    padding: 13px 13px 13px;
+}
+
+.movimientos tbody div{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.movimientos .card-body .dataTables_filter{
+    float: right !important;
+}
+
+.movimientos button{
+    margin-right: 10px !important;
+}
+
+.movimientos .pagination{
+    float: right !important;
+}
+
+.movimientos .card-body .table {
+    margin-top: 10px !important;
+}
+
+nav{
+    background-color: white !important;
+}
